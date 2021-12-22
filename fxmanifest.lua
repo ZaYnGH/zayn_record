@@ -5,5 +5,5 @@ game 'gta5'
 
 description 'Zayn Recording Menu'
 
-client_script 'Record.lua'
+client_script 'Zayn_Record.lua'
 ---
